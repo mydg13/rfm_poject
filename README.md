@@ -12,9 +12,11 @@
 ---
 
 ## Technologies Used
-- **Docker**: To containerize PostgreSQL.
-- **pgAdmin**: GUI tool to manage PostgreSQL.
-- **PostgreSQL**: Relational database management system.
+- ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat) To containerize PostgreSQL.
+- ![pgAdmin](https://img.shields.io/badge/pgAdmin-316192?logo=postgresql&logoColor=white&style=flat) GUI tool to manage PostgreSQL.
+- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat) Relational database management system.
+- ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=power%20bi&logoColor=black&style=flat) For data visualization and reporting.
+
 
 ---
 ## Step 1: Install Docker and pgAdmin
