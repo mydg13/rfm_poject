@@ -19,7 +19,8 @@
 ---
 ## Step 1: Install Docker and pgAdmin
 
-### 1. Install Docker
+### 1. Install Docker ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat)
+
 
 Download and install Docker from: [Docker Official Website](https://www.docker.com/get-started/).
 
