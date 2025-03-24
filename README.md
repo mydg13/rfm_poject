@@ -1,6 +1,18 @@
 # RFM  Segmentation - Data Analystics Project
 
+## Table of Contents
+1. [Technologies Used](#technologies-used)
+2. [Step 1: Install Docker and pgAdmin](#step-1-install-docker-and-pgadmin)
+3. [Step 2: Run PostgreSQL using Docker](#step-2-run-postgresql-using-docker)
+4. [Step 3: Connect PostgreSQL using pgAdmin](#step-3-connect-postgresql-using-pgadmin)
+5. [Step 4: Copy `.csv` File into Docker Container](#step-4-copy-csv-file-into-docker-container)
+6. [Step 5: Import CSV into PostgreSQL](#step-5-import-csv-into-postgresql)
+7. [Step 6: Data Segmentation](#step-6-data-segmentation)
 
+## Technologies Used
+- **Docker**: To containerize PostgreSQL.
+- **pgAdmin**: GUI tool to manage PostgreSQL.
+- **PostgreSQL**: Relational database management system.
 
 ## Step 1: Install Docker and pgAdmin
 
