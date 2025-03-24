@@ -83,7 +83,7 @@ docker start postgres-container
 4. Click **Save**. If the connection is successful, you will see PostgreSQL listed in pgAdmin.
 
 
-## Step 4: Copy `.csv` File into Docker Container
+## Step 4: Copy `.csv` File into Docker Container ![CSV](https://img.shields.io/badge/CSV-FFA500?logo=csv&logoColor=white&style=flat)
 
 ### 1. Copy the file into the container:
 
