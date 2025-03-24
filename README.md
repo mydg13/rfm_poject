@@ -152,5 +152,7 @@ Run the following command to copy and execute the RFM Segmentation SQL script in
 
 📊 RFM Slide Report ![Google Slides](https://img.shields.io/badge/Google%20Slides-F4B400?logo=google-slides&logoColor=white&style=flat)
 
+[Presentation Link](https://docs.google.com/presentation/d/1ZL7i7_LkTVWQa55DuYqSpCDZnySA05JzKnI-nGpZtxg/edit#slide=id.g33b1d478b6a_1_38)
+
 
   
