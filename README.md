@@ -38,7 +38,7 @@ Download and install from: [pgAdmin Official Website](https://www.pgadmin.org/do
 After installation, open pgAdmin.
 
 
-## Step 2: Run PostgreSQL with Docker
+## Step 2: Run PostgreSQL with Docker ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat)
 
 Run the following command to start a PostgreSQL container:
 
@@ -68,7 +68,7 @@ docker start postgres-container
 ```
 
 
-## Step 3: Connect to PostgreSQL using pgAdmin
+## Step 3: Connect to PostgreSQL using pgAdmin 
 
 1. Open **pgAdmin**.
 2. Navigate to **"Servers"** → **"Create"** → **"Server"**.
