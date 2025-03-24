@@ -30,7 +30,8 @@ Verify the installation:
 docker --version
 ```
 
-### 2. Install pgAdmin
+### 2. Install pgAdmin ![pgAdmin](https://img.shields.io/badge/pgAdmin-316192?logo=postgresql&logoColor=white&style=flat)
+
 
 Download and install from: [pgAdmin Official Website](https://www.pgadmin.org/download/).
 
