@@ -144,6 +144,6 @@ Run the following command to copy and execute the RFM Segmentation SQL script in
 
 📊 RFM Power BI
 
-[![RFM Model](https://img.shields.io/badge/View-RFM%20Model-blue)](https://github.com/mydg13/rfm_poject/blob/main/visualize_report/RFM%20model.pbix)
+[RFM model.pbix](https://github.com/mydg13/rfm_poject/blob/main/visualize_report/RFM%20model.pbix)
 
   
