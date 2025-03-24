@@ -14,6 +14,7 @@
 - **pgAdmin**: GUI tool to manage PostgreSQL.
 - **PostgreSQL**: Relational database management system.
 
+---
 ## Step 1: Install Docker and pgAdmin
 
 ### 1. Install Docker
@@ -32,7 +33,6 @@ Download and install from: [pgAdmin Official Website](https://www.pgadmin.org/do
 
 After installation, open pgAdmin.
 
----
 
 ## Step 2: Run PostgreSQL with Docker
 
@@ -63,7 +63,6 @@ To restart the container:
 docker start postgres-container
 ```
 
----
 
 ## Step 3: Connect to PostgreSQL using pgAdmin
 
@@ -79,7 +78,6 @@ docker start postgres-container
      - **Save password**: ✅
 4. Click **Save**. If the connection is successful, you will see PostgreSQL listed in pgAdmin.
 
----
 
 ## Step 4: Copy `.csv` File into Docker Container
 
@@ -124,7 +122,6 @@ CREATE TABLE customer_transaction (
 DROP TABLE IF EXISTS customer_transaction;
 ```
 
----
 
 ## Step 5: Import CSV into PostgreSQL
 
@@ -134,7 +131,6 @@ FROM '/customer_transaction.csv'
 DELIMITER ',' CSV HEADER;
 ```
 
----
 
 ## Step 6: Customer Segmentation
 
