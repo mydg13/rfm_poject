@@ -134,7 +134,7 @@ DELIMITER ',' CSV HEADER;
 ```
 
 
-## Step 6: Customer Segmentation
+## Step 6: Customer Segmentation 
 
 (You can add your segmentation queries and logic here.)
 
