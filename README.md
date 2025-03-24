@@ -136,10 +136,10 @@ DELIMITER ',' CSV HEADER;
 
 ## Step 6: Customer Segmentation 
 
-## Step 6: Run RFM Segmentation SQL Script
-
 Run the following command to copy and execute the RFM Segmentation SQL script inside the PostgreSQL :
 
 [RFM Segmentation SQL Script](https://github.com/mydg13/rfm_poject/blob/main/sql_scripts/rfm_segmentation.sql)
+
+## Step 7: Visualize data
 
   
