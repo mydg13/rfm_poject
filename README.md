@@ -9,6 +9,8 @@
 6. [Step 5: Import CSV into PostgreSQL](#step-5-import-csv-into-postgresql)
 7. [Step 6: Data Segmentation](#step-6-data-segmentation)
 
+---
+
 ## Technologies Used
 - **Docker**: To containerize PostgreSQL.
 - **pgAdmin**: GUI tool to manage PostgreSQL.
