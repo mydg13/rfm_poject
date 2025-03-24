@@ -148,6 +148,7 @@ Run the following command to copy and execute the RFM Segmentation SQL script in
 
 [RFM model.pbix](https://github.com/mydg13/rfm_poject/blob/main/visualize_report/RFM%20model.pbix)
 
-📊 RFM Slide Report
+📊 RFM Slide Report ![Google Slides](https://img.shields.io/badge/Google%20Slides-F4B400?logo=google-slides&logoColor=white&style=flat)
+
 
   
