@@ -144,8 +144,7 @@ Run the following command to copy and execute the RFM Segmentation SQL script in
 
 ## Step 7: Visualize data
 
-📊 RFM Power BI ![Power BI Logo](https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_BI_logo.svg)
-
+📊 RFM Power BI ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=power%20bi&logoColor=black&style=flat)
 
 [RFM model.pbix](https://github.com/mydg13/rfm_poject/blob/main/visualize_report/RFM%20model.pbix)
 
