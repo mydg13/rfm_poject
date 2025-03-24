@@ -138,10 +138,8 @@ DELIMITER ',' CSV HEADER;
 
 ## Step 6: Run RFM Segmentation SQL Script
 
-Run the following command to copy and execute the RFM Segmentation SQL script inside the PostgreSQL container:
+Run the following command to copy and execute the RFM Segmentation SQL script inside the PostgreSQL :
 
-```bash
-docker cp sql_scripts/rfm_segmentation.sql postgres-container:/rfm_segmentation.sql
-docker exec -it postgres-container psql -U postgres -d mydb -f /rfm_segmentation.sql
+[RFM Segmentation SQL Script](https://github.com/mydg13/rfm_poject/blob/main/sql_scripts/rfm_segmentation.sql)
 
   
