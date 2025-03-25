@@ -132,6 +132,7 @@ DROP TABLE IF EXISTS customer_transaction;
 
 
 ## Step 5: Import CSV into PostgreSQL
+[Tải file data tại đây](https://drive.google.com/file/d/1RgmPIvwGB6fAgEOgNfzCiaML_uVYS6Uw/view?usp=drive_link)
 
 ```bash
 COPY customer_transaction 
