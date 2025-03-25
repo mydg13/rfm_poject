@@ -89,6 +89,7 @@ docker start postgres-container
 
 ## Step 4: Copy `.csv` File into Docker Container ![CSV](https://img.shields.io/badge/CSV-FFA500?logo=csv&logoColor=white&style=flat)
 
+[Tải file data tại đây](https://drive.google.com/file/d/1RgmPIvwGB6fAgEOgNfzCiaML_uVYS6Uw/view?usp=drive_link)
 ### 1. Copy the file into the container:
 
 Run this command in **cmd**:
@@ -132,7 +133,6 @@ DROP TABLE IF EXISTS customer_transaction;
 
 
 ## Step 5: Import CSV into PostgreSQL
-[Tải file data tại đây](https://drive.google.com/file/d/1RgmPIvwGB6fAgEOgNfzCiaML_uVYS6Uw/view?usp=drive_link)
 
 ```bash
 COPY customer_transaction 
