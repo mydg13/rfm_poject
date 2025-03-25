@@ -138,7 +138,7 @@ COPY customer_transaction
 FROM '/customer_transaction.csv' 
 DELIMITER ',' CSV HEADER;
 ```
-
+![Alt text](https://github.com/mydg13/rfm_poject/blob/main/image/image4.png?raw=true)
 
 ## Step 6: Customer Segmentation 
 
