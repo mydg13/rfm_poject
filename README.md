@@ -68,7 +68,7 @@ To restart the container:
 ```bash
 docker start postgres-container
 ```
-
+![Alt text](https://github.com/mydg13/rfm_poject/blob/main/image/image1.png?raw=true)
 
 ## Step 3: Connect to PostgreSQL using pgAdmin 
 
